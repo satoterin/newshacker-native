@@ -1,10 +1,6 @@
 HackerWeb
 ===
 
-A simply readable Hacker News app for iOS and Android.
-
-Read about the story here: [Building HackerWeb for iOS](http://cheeaun.com/blog/2016/03/building-hackerweb-ios/).
-
 Preview
 ---
 
@@ -56,7 +52,4 @@ Similar apps
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
 
-License
----
 
-[MIT](http://cheeaun.mit-license.org/).
